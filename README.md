@@ -10,7 +10,7 @@ players.csv:- This csv file contains the usable data which is scraped from the H
 
 teams.csv:- This csv file contains the usable data which is scraped from the HTML pages of the teams folder.
 
-nicknames.csv:- This csv file contains the Team names with the abbreviations generally used for them.
+nicknames(1).csv:- This csv file contains the Team names with the abbreviations generally used for them.
 
 player_mvp_stats1.csv:- This csv file contains the data of players.csv, teams.csv and mvps.csv
 
